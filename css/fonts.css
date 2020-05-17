@@ -1,1 +1,28 @@
-/* No CSS *//*# sourceMappingURL=fonts.css.map */
+@font-face {
+  font-family: 'Myriad Regular';
+  src: url("../fonts/myriadPro_regular.woff") format("woff");
+  src: url("../fonts/myriadPro_regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Myriad Bold';
+  src: url("../fonts/myriadPro_bold.woff") format("woff");
+  src: url("../fonts/myriadPro_bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans Regular';
+  src: url("../fonts/openSans_regular.woff") format("woff");
+  src: url("../fonts/openSans_regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Poppins Regular';
+  src: url("../fonts/poppins_regular.woff") format("woff");
+  src: url("../fonts/poppins_regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal; }
+/*# sourceMappingURL=fonts.css.map */
