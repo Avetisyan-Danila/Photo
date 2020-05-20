@@ -3,7 +3,7 @@ $("body").on('click', '[href*="#"]', function (e) {
     if (document.documentElement.clientWidth > 767) {
         var fixed_offset = 88;
     } else {
-        var fixed_offset = 58;
+        var fixed_offset = 60;
     }
     $('html,body').stop().animate({ scrollTop: $(this.hash).offset().top - fixed_offset }, 1000);
     e.preventDefault();
