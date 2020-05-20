@@ -143,6 +143,7 @@
 
 .intro {
   background: url(../img/intro/intro-bg.png);
+  background-repeat: no-repeat;
   min-height: 100vh;
   position: relative;
   display: -webkit-box;
